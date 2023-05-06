@@ -1,0 +1,3 @@
+job_id,num_gpu,submit_time,iterations,model_name,batch_size,duration,interval,iteration_time,resource_time_0,resource_time_1,resource_time_2,priority
+0,1,0,5853661,dqn,128,2868294000,46122000,490,446,8,0,1
+1,8,201694000,8787693,dqn,128,4472936000,201694000,509,435,8,0.5,0
